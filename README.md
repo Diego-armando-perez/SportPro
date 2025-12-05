@@ -114,5 +114,8 @@ SportPro/
 Este proyecto es de uso público y cualquiera puede modificarlo o usarlo de base para un proyecto propio
 
 Autores: Juan Sebastian Corredor Saenz, Sergio Alejandro Vazques Pineda, Diego Armando Perez Solano
+
 Fecha de creacion: 4 de diciembre del 2025
+
 Nombre del proyecto: SportPro
+
