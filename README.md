@@ -39,43 +39,75 @@ Descargue todos los archivos, descomprima la base de datos y pegue su dirección
 # 💻 Estructura del proyecto
 
 SportPro/
+
 │
+
 ├── Main.py
+
 ├── .env
+
 ├── Basedatos.rar
+
 │
 ├── models/
+
 │   ├── __init__.py
+
 │   ├── firebase.py
+
 │   ├── rutina_base.py
+
 │   ├── rutinas.py
+
 │   ├── rutinas_futbol.py
+
 │   ├── rutinas_baloncesto.py
+
 │   ├── rutinas_tenis.py
+
 │   ├── rutinas_nadacion.py
+
 │   └── usuario.py
+
 │
 ├── static/
+
 │   ├── css/
+
 │   │   └── style.css
 │   │
 │   └── img/
+
 │       ├── logo.png
+
 │       ├── imagenes_ejercicios.py
+
 │       └── ejercicios/
+
 │           └── (imágenes de ejercicios)
+
 │
 ├── templates/
+
 │   ├── base.html
+
 │   ├── Encuesta.html
+
 │   ├── Rutina.html
+
 │   ├── Historial.html
+
 │   ├── Usuario.html
+
 │   ├── Ejercicios.html
+
 │   └── Alarmas.html
+
 │
 └── viewmodels/
+
     └── rutinas_vm.py
+    
 
 # Licencia
 
