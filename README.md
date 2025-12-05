@@ -51,23 +51,23 @@ SportPro/
 
 ├── models/
 
-   ├── __init__.py
+    ├── __init__.py
 
-   ├── firebase.py
+    ├── firebase.py
 
-   ├── rutina_base.py
+    ├── rutina_base.py
 
-   ├── rutinas.py
+    ├── rutinas.py
 
-   ├── rutinas_futbol.py
+    ├── rutinas_futbol.py
 
-   ├── rutinas_baloncesto.py
+    ├── rutinas_baloncesto.py
 
-   ├── rutinas_tenis.py
+    ├── rutinas_tenis.py
 
-   ├── rutinas_nadacion.py
+    ├── rutinas_nadacion.py
 
-   └── usuario.py
+    └── usuario.py
 
 
 ── static/
@@ -87,21 +87,21 @@ SportPro/
            └── (imágenes de ejercicios)
 
 
-── templates/
+└── templates/
 
-   ├── base.html
+    ── base.html
 
-   ├── Encuesta.html
+    ── Encuesta.html
 
-   ├── Rutina.html
+    ── Rutina.html
 
-   ├── Historial.html
+    ── Historial.html
 
-   ├── Usuario.html
+    ── Usuario.html
 
-   ├── Ejercicios.html
+    ── Ejercicios.html
 
-   └── Alarmas.html
+    ── Alarmas.html
 
 
 └── viewmodels/
