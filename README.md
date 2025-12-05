@@ -40,70 +40,70 @@ Descargue todos los archivos, descomprima la base de datos y pegue su dirección
 
 SportPro/
 
-│
 
-├── Main.py
 
-├── .env
+── Main.py
 
-├── Basedatos.rar
+── .env
 
-│
+── Basedatos.rar
+
+
 ├── models/
 
-│   ├── __init__.py
+   ├── __init__.py
 
-│   ├── firebase.py
+   ├── firebase.py
 
-│   ├── rutina_base.py
+   ├── rutina_base.py
 
-│   ├── rutinas.py
+   ├── rutinas.py
 
-│   ├── rutinas_futbol.py
+   ├── rutinas_futbol.py
 
-│   ├── rutinas_baloncesto.py
+   ├── rutinas_baloncesto.py
 
-│   ├── rutinas_tenis.py
+   ├── rutinas_tenis.py
 
-│   ├── rutinas_nadacion.py
+   ├── rutinas_nadacion.py
 
-│   └── usuario.py
+   └── usuario.py
 
-│
-├── static/
 
-│   ├── css/
+── static/
 
-│   │   └── style.css
-│   │
-│   └── img/
+   ├── css/
 
-│       ├── logo.png
+      └── style.css
+   
+   └── img/
 
-│       ├── imagenes_ejercicios.py
+       ├── logo.png
 
-│       └── ejercicios/
+       ├── imagenes_ejercicios.py
 
-│           └── (imágenes de ejercicios)
+       └── ejercicios/
 
-│
-├── templates/
+           └── (imágenes de ejercicios)
 
-│   ├── base.html
 
-│   ├── Encuesta.html
+── templates/
 
-│   ├── Rutina.html
+   ├── base.html
 
-│   ├── Historial.html
+   ├── Encuesta.html
 
-│   ├── Usuario.html
+   ├── Rutina.html
 
-│   ├── Ejercicios.html
+   ├── Historial.html
 
-│   └── Alarmas.html
+   ├── Usuario.html
 
-│
+   ├── Ejercicios.html
+
+   └── Alarmas.html
+
+
 └── viewmodels/
 
     └── rutinas_vm.py
