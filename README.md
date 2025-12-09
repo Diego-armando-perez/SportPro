@@ -108,6 +108,11 @@ SportPro/
 
     └── rutinas_vm.py
     
+# mas info
+
+En caso de que tenga alguna duda extra, usted puede encontrar un video explicando las funciones del aplicativo a continuacion:
+https://www.youtube.com/watch?v=cwr6AQ85YlA
+
 
 # Licencia
 
